@@ -1,0 +1,2 @@
+rho_gcm3,intercept_mGal,r2,n_points_used,sample_step,sea_level_m,rho0_for_tc_gcm3,max_points_saved,grav_tif,dem_tif,tc_external_tif,grav_crs
+1.8755794320110808,66.87893930789498,0.30420344437616165,1649,6,0.0,2.67,200000,grav_32.1.tif,SRTM15Plus.tif,,EPSG:4326

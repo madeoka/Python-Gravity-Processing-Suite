@@ -1,0 +1,26 @@
+{
+  "dx_m": 3000.0,
+  "dz_m": 300.0,
+  "zmax_m": 25000.0,
+  "xpad_m": 20000.0,
+  "bodies": [
+    {
+      "name": "Basin",
+      "x1_m": 20000,
+      "x2_m": 90000,
+      "ztop_m": 500,
+      "zbot_m": 8000,
+      "drho_kgm3": -250
+    },
+    {
+      "name": "Intrusion",
+      "x1_m": 110000,
+      "x2_m": 145000,
+      "ztop_m": 2000,
+      "zbot_m": 14000,
+      "drho_kgm3": 300
+    }
+  ],
+  "rmse_mGal": 45.521174974290716,
+  "n_valid_points": 201
+}

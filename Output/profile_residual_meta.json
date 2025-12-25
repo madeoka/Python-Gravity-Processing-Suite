@@ -1,0 +1,21 @@
+{
+  "residual_tif": "output\\Residual_mGal_landonly.tif",
+  "profile_step_m": 2000.0,
+  "crs": "PROJCS[\"unknown\",GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]],PROJECTION[\"Lambert_Azimuthal_Equal_Area\"],PARAMETER[\"latitude_of_center\",-1.9833333335],PARAMETER[\"longitude_of_center\",122.3833333335],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+  "p0_map": [
+    -354740.92477427266,
+    -113239.62636768412
+  ],
+  "p1_map": [
+    -17490.35296388907,
+    98581.92943786677
+  ],
+  "p0_lonlat": [
+    119.19200199999999,
+    -3.0039650000000004
+  ],
+  "p1_lonlat": [
+    122.22619100000001,
+    -1.0917800000000002
+  ]
+}
